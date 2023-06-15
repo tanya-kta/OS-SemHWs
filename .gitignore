@@ -8,8 +8,8 @@
 */r
 */client
 */server
-*/decoder
-*/observer
+*/sender
+*/receiver
 CMakeLists.txt
 
 # Prerequisites
